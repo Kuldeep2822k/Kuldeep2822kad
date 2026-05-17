@@ -168,16 +168,16 @@ Stats & Proficiency
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1526](https://github.com/recodehive/recode-website/pull/1526) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-2. 🗣 Commented on [#1526](https://github.com/recodehive/recode-website/pull/1526#issuecomment-4469841580) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-3. 💪 Opened PR [#20878](https://github.com/eslint/eslint/pull/20878) in [eslint/eslint](https://github.com/eslint/eslint)
-4. ❌ Closed PR [#23](https://github.com/Kuldeep2822k/eslint/pull/23) in [Kuldeep2822k/eslint](https://github.com/Kuldeep2822k/eslint)
-5. 💪 Opened PR [#23](https://github.com/Kuldeep2822k/eslint/pull/23) in [Kuldeep2822k/eslint](https://github.com/Kuldeep2822k/eslint)
-6. 🗣 Commented on [#1526](https://github.com/recodehive/recode-website/pull/1526#issuecomment-4467046924) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-7. 💪 Opened PR [#1526](https://github.com/recodehive/recode-website/pull/1526) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-8. 🗣 Commented on [#1522](https://github.com/recodehive/recode-website/issues/1522#issuecomment-4461587580) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-9. 🗣 Commented on [#1522](https://github.com/recodehive/recode-website/issues/1522#issuecomment-4461520010) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-10. ❗ Opened issue [#1522](https://github.com/recodehive/recode-website/issues/1522) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. 🗣 Commented on [#1541](https://github.com/recodehive/recode-website/issues/1541#issuecomment-4470419909) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+2. 🗣 Commented on [#1542](https://github.com/recodehive/recode-website/issues/1542#issuecomment-4470413151) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+3. 🗣 Commented on [#1543](https://github.com/recodehive/recode-website/issues/1543#issuecomment-4470409245) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+4. 🎉 Merged PR [#1526](https://github.com/recodehive/recode-website/pull/1526) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+5. 🗣 Commented on [#1526](https://github.com/recodehive/recode-website/pull/1526#issuecomment-4469841580) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+6. 💪 Opened PR [#20878](https://github.com/eslint/eslint/pull/20878) in [eslint/eslint](https://github.com/eslint/eslint)
+7. ❌ Closed PR [#23](https://github.com/Kuldeep2822k/eslint/pull/23) in [Kuldeep2822k/eslint](https://github.com/Kuldeep2822k/eslint)
+8. 💪 Opened PR [#23](https://github.com/Kuldeep2822k/eslint/pull/23) in [Kuldeep2822k/eslint](https://github.com/Kuldeep2822k/eslint)
+9. 🗣 Commented on [#1526](https://github.com/recodehive/recode-website/pull/1526#issuecomment-4467046924) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+10. 💪 Opened PR [#1526](https://github.com/recodehive/recode-website/pull/1526) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
 <!--END_SECTION:activity-->
 
 ---
