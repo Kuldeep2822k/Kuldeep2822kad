@@ -168,16 +168,16 @@ Stats & Proficiency
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#20887](https://github.com/eslint/eslint/issues/20887) in [eslint/eslint](https://github.com/eslint/eslint)
-2. ℹ️ Labeled issue [#20887](https://github.com/eslint/eslint/issues/20887) in [eslint/eslint](https://github.com/eslint/eslint)
-3. ❗ Opened issue [#20887](https://github.com/eslint/eslint/issues/20887) in [eslint/eslint](https://github.com/eslint/eslint)
-4. 🎉 Merged PR [#1554](https://github.com/recodehive/recode-website/pull/1554) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-5. 🎉 Merged PR [#1550](https://github.com/recodehive/recode-website/pull/1550) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-6. 🗣 Commented on [#1550](https://github.com/recodehive/recode-website/pull/1550#issuecomment-4476954072) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-7. 🗣 Commented on [#1554](https://github.com/recodehive/recode-website/pull/1554#issuecomment-4475505993) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-8. 🎉 Merged PR [#20878](https://github.com/eslint/eslint/pull/20878) in [eslint/eslint](https://github.com/eslint/eslint)
-9. 🗣 Commented on [#1538](https://github.com/recodehive/recode-website/issues/1538#issuecomment-4474998343) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
-10. 🗣 Commented on [#1537](https://github.com/recodehive/recode-website/issues/1537#issuecomment-4474994988) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. 🗣 Commented on [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361#issuecomment-4489883976) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+2. 🎉 Merged PR [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+3. 💪 Opened PR [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+4. 🗣 Commented on [#360](https://github.com/Kuldeep2822k/aqua-ai/pull/360#issuecomment-4489459447) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+5. 🗣 Commented on [#315](https://github.com/Kuldeep2822k/aqua-ai/pull/315#issuecomment-4488916743) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+6. 🗣 Commented on [#360](https://github.com/Kuldeep2822k/aqua-ai/pull/360#issuecomment-4489068970) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+7. 🗣 Commented on [#315](https://github.com/Kuldeep2822k/aqua-ai/pull/315#issuecomment-4488918971) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+8. 🗣 Commented on [#315](https://github.com/Kuldeep2822k/aqua-ai/pull/315#issuecomment-4488909632) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+9. 🗣 Commented on [#315](https://github.com/Kuldeep2822k/aqua-ai/pull/315#issuecomment-4488861979) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+10. ℹ️ Labeled issue [#20887](https://github.com/eslint/eslint/issues/20887) in [eslint/eslint](https://github.com/eslint/eslint)
 <!--END_SECTION:activity-->
 
 ---
