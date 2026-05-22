@@ -168,16 +168,16 @@ Stats & Proficiency
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Kuldeep2822k/code/pull/31) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
-2. 🗣 Commented on [#31](https://github.com/Kuldeep2822k/code/pull/31#issuecomment-4508575826) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
-3. ℹ️ Reopened PR [#31](https://github.com/Kuldeep2822k/code/pull/31) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
-4. ❌ Closed PR [#31](https://github.com/Kuldeep2822k/code/pull/31) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
-5. 🗣 Commented on [#372](https://github.com/Kuldeep2822k/aqua-ai/pull/372#issuecomment-4496478364) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
-6. 🗣 Commented on [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361#issuecomment-4489883976) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
-7. 🎉 Merged PR [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
-8. 💪 Opened PR [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
-9. 🗣 Commented on [#360](https://github.com/Kuldeep2822k/aqua-ai/pull/360#issuecomment-4489459447) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
-10. 🗣 Commented on [#315](https://github.com/Kuldeep2822k/aqua-ai/pull/315#issuecomment-4488916743) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+1. ℹ️ Labeled issue [#20905](https://github.com/eslint/eslint/issues/20905) in [eslint/eslint](https://github.com/eslint/eslint)
+2. ℹ️ Labeled issue [#20905](https://github.com/eslint/eslint/issues/20905) in [eslint/eslint](https://github.com/eslint/eslint)
+3. ❗ Opened issue [#20905](https://github.com/eslint/eslint/issues/20905) in [eslint/eslint](https://github.com/eslint/eslint)
+4. 🎉 Merged PR [#31](https://github.com/Kuldeep2822k/code/pull/31) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
+5. 🗣 Commented on [#31](https://github.com/Kuldeep2822k/code/pull/31#issuecomment-4508575826) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
+6. ℹ️ Reopened PR [#31](https://github.com/Kuldeep2822k/code/pull/31) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
+7. ❌ Closed PR [#31](https://github.com/Kuldeep2822k/code/pull/31) in [Kuldeep2822k/code](https://github.com/Kuldeep2822k/code)
+8. 🗣 Commented on [#372](https://github.com/Kuldeep2822k/aqua-ai/pull/372#issuecomment-4496478364) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+9. 🗣 Commented on [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361#issuecomment-4489883976) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
+10. 🎉 Merged PR [#361](https://github.com/Kuldeep2822k/aqua-ai/pull/361) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
 <!--END_SECTION:activity-->
 
 ---
