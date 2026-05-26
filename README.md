@@ -211,3 +211,5 @@ I actively contribute to and build open-source tools, especially in the **AI/dat
 <div align="center">
   <i>Open to: freelance · full-time · open-source collaboration</i>
 </div>
+
+![kuldeep2822k GitHub stats](https://github-readme-stats-ten-flame-46.vercel.app/api?username=kuldeep2822k&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&cache_seconds=86400)
