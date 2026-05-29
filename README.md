@@ -117,11 +117,11 @@ I build data-driven products across **full-stack web**, **data pipelines**, and 
 0x3EF8 · Dev Metrics                                         | Quick Insights
 From: 2025 - To: 2026                                        | Top Lang : TypeScript (60.00%)
 Repos: 24 (21 pub/3 pri), Stars: 11                          | Top Editor: N/A (0.00%)
-WakaTime (last 7d): 1 hr 48 mins 53 secs total
-Daily Average: 15 mins 33 secs
-                                                             | Peak Time: Evening (86.00%)
-                                                             | Peak Day : Friday (100.00%)
-                                                             | Activity : 5 chunks
+WakaTime (last 7d): 0 secs total
+Daily Average: 0 secs
+                                                             | Peak Time: Morning (0.00%)
+                                                             | Peak Day : Saturday (0.00%)
+                                                             | Activity : 0 chunks
 
 Stats & Proficiency
 
@@ -134,10 +134,12 @@ Stats & Proficiency
 
  I Code Most During
 
+ (time buckets fallback applied: detailed durations unavailable)
+
  Morning (06-12)  ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h         | Deep focus zone.
  Daytime (12-18)  ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h         | Review and polish.
- Evening (18-24)  ▰▰▰▰▰▰▰▰▰▱    86.00 %   |   1.56 h         | Debug and refine.
- Night (00-06)    ▰▱▱▱▱▱▱▱▱▱    14.00 %   |   0.25 h         | Plan and warm up.
+ Evening (18-24)  ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h         | Debug and refine.
+ Night (00-06)    ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h         | Plan and warm up.
 
  I Am Most Productive On
 
@@ -145,7 +147,7 @@ Stats & Proficiency
  Tuesday    ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h               | Learning day
  Wednesday  ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h               | Planning day
  Thursday   ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h               | Momentum day
- Friday     ▰▰▰▰▰▰▰▰▰▰   100.00 %   |   1.81 h               | Shipping day
+ Friday     ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h               | Shipping day
  Saturday   ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h               | Refactor day
  Sunday     ▱▱▱▱▱▱▱▱▱▱     0.00 %   |   0.00 h               | Review day
 
@@ -159,7 +161,7 @@ Stats & Proficiency
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- Languages/Time/Day/Editors/OS from WakaTime API · Repo stats from GitHub API · Updated: 2026-05-28 10:18:47 IST
+ Languages/Time/Day/Editors/OS from WakaTime API · Repo stats from GitHub API · Updated: 2026-05-29 10:21:34 IST
 ```
 <!--END_SECTION:waka-->
 
