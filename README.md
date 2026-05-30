@@ -170,16 +170,16 @@ Stats & Proficiency
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/eslint/rfcs/pull/148#issuecomment-4566704542) in [eslint/rfcs](https://github.com/eslint/rfcs)
-2. 🎉 Merged PR [#20916](https://github.com/eslint/eslint/pull/20916) in [eslint/eslint](https://github.com/eslint/eslint)
-3. 🗣 Commented on [#20916](https://github.com/eslint/eslint/pull/20916#issuecomment-4543892317) in [eslint/eslint](https://github.com/eslint/eslint)
-4. 💪 Opened PR [#20916](https://github.com/eslint/eslint/pull/20916) in [eslint/eslint](https://github.com/eslint/eslint)
-5. 🗣 Commented on [#20788](https://github.com/eslint/eslint/pull/20788#issuecomment-4537255917) in [eslint/eslint](https://github.com/eslint/eslint)
-6. ℹ️ Labeled issue [#20913](https://github.com/eslint/eslint/issues/20913) in [eslint/eslint](https://github.com/eslint/eslint)
-7. ℹ️ Labeled issue [#20913](https://github.com/eslint/eslint/issues/20913) in [eslint/eslint](https://github.com/eslint/eslint)
-8. ❗ Opened issue [#20913](https://github.com/eslint/eslint/issues/20913) in [eslint/eslint](https://github.com/eslint/eslint)
-9. 🗣 Commented on [#20854](https://github.com/eslint/eslint/issues/20854#issuecomment-4529865418) in [eslint/eslint](https://github.com/eslint/eslint)
-10. 🗣 Commented on [#1538](https://github.com/recodehive/recode-website/issues/1538#issuecomment-4529591037) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ℹ️ Labeled issue [#20931](https://github.com/eslint/eslint/issues/20931) in [eslint/eslint](https://github.com/eslint/eslint)
+2. ℹ️ Labeled issue [#20931](https://github.com/eslint/eslint/issues/20931) in [eslint/eslint](https://github.com/eslint/eslint)
+3. ❗ Opened issue [#20931](https://github.com/eslint/eslint/issues/20931) in [eslint/eslint](https://github.com/eslint/eslint)
+4. 🗣 Commented on [#148](https://github.com/eslint/rfcs/pull/148#issuecomment-4566704542) in [eslint/rfcs](https://github.com/eslint/rfcs)
+5. 🎉 Merged PR [#20916](https://github.com/eslint/eslint/pull/20916) in [eslint/eslint](https://github.com/eslint/eslint)
+6. 🗣 Commented on [#20916](https://github.com/eslint/eslint/pull/20916#issuecomment-4543892317) in [eslint/eslint](https://github.com/eslint/eslint)
+7. 💪 Opened PR [#20916](https://github.com/eslint/eslint/pull/20916) in [eslint/eslint](https://github.com/eslint/eslint)
+8. 🗣 Commented on [#20788](https://github.com/eslint/eslint/pull/20788#issuecomment-4537255917) in [eslint/eslint](https://github.com/eslint/eslint)
+9. ℹ️ Labeled issue [#20913](https://github.com/eslint/eslint/issues/20913) in [eslint/eslint](https://github.com/eslint/eslint)
+10. ℹ️ Labeled issue [#20913](https://github.com/eslint/eslint/issues/20913) in [eslint/eslint](https://github.com/eslint/eslint)
 <!--END_SECTION:activity-->
 
 ---
