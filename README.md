@@ -170,16 +170,16 @@ Stats & Proficiency
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#20950](https://github.com/eslint/eslint/issues/20950) in [eslint/eslint](https://github.com/eslint/eslint)
-2. ℹ️ Labeled issue [#20950](https://github.com/eslint/eslint/issues/20950) in [eslint/eslint](https://github.com/eslint/eslint)
-3. ❗ Opened issue [#20950](https://github.com/eslint/eslint/issues/20950) in [eslint/eslint](https://github.com/eslint/eslint)
-4. 🎉 Merged PR [#20788](https://github.com/eslint/eslint/pull/20788) in [eslint/eslint](https://github.com/eslint/eslint)
-5. 🗣 Commented on [#20935](https://github.com/eslint/eslint/pull/20935#issuecomment-4639832957) in [eslint/eslint](https://github.com/eslint/eslint)
-6. 🗣 Commented on [#20788](https://github.com/eslint/eslint/pull/20788#issuecomment-4624855867) in [eslint/eslint](https://github.com/eslint/eslint)
-7. ℹ️ Unlabeled PR [#374](https://github.com/Kuldeep2822k/aqua-ai/pull/374) in [Kuldeep2822k/aqua-ai](https://github.com/Kuldeep2822k/aqua-ai)
-8. 💪 Opened PR [#20935](https://github.com/eslint/eslint/pull/20935) in [eslint/eslint](https://github.com/eslint/eslint)
-9. 🗣 Commented on [#20931](https://github.com/eslint/eslint/issues/20931#issuecomment-4583037666) in [eslint/eslint](https://github.com/eslint/eslint)
-10. ℹ️ Labeled issue [#20931](https://github.com/eslint/eslint/issues/20931) in [eslint/eslint](https://github.com/eslint/eslint)
+1. 🗣 Commented on [#157](https://github.com/Kuldeep2822k/cli/pull/157#issuecomment-5620677785) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+2. 🗣 Commented on [#159](https://github.com/Kuldeep2822k/cli/pull/159#issuecomment-5620370010) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+3. 💪 Opened PR [#159](https://github.com/Kuldeep2822k/cli/pull/159) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+4. 🗣 Commented on [#157](https://github.com/Kuldeep2822k/cli/pull/157#issuecomment-5617105239) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+5. 🔒 Closed issue [#30](https://github.com/Kuldeep2822k/cli/issues/30) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+6. 🔒 Closed issue [#26](https://github.com/Kuldeep2822k/cli/issues/26) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+7. 🎉 Merged PR [#158](https://github.com/Kuldeep2822k/cli/pull/158) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+8. 🗣 Commented on [#157](https://github.com/Kuldeep2822k/cli/pull/157#issuecomment-5616280332) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+9. 🗣 Commented on [#157](https://github.com/Kuldeep2822k/cli/pull/157#issuecomment-5616188688) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
+10. 🗣 Commented on [#157](https://github.com/Kuldeep2822k/cli/pull/157#issuecomment-5609091077) in [Kuldeep2822k/cli](https://github.com/Kuldeep2822k/cli)
 <!--END_SECTION:activity-->
 
 ---
